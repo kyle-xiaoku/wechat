@@ -1,0 +1,23 @@
+{
+    "name": "kyle/wechat",
+    "description": "wechat miniProgram service",
+    "keywords": ["wechat","weixin","wx","php"],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">8.1",
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kyle\\Wechat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kyle",
+            "email": "zhendong.li@edoctor.cn"
+        }
+    ],
+    "prefer-stable": true
+}
