@@ -2,7 +2,7 @@
 微信公众号、小程序简单，方便服务调用
 
 ## 关于
-> - 此PHP SDK基于[腾讯官方API](https://developers.weixin.qq.com/doc/service/guide/)官方API构建。
+> - 此PHP SDK基于[腾讯官方API](https://developers.weixin.qq.com/doc/service/guide/)构建。
 > - 公众号、小程序接口调用。
 
 ## 运行环境
